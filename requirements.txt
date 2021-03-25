@@ -47,7 +47,7 @@ pydantic==1.4
 pyfcm==1.4.7
 python-multipart==0.0.5
 pytz==2019.3
-PyYAML==5.3
+PyYAML==5.4
 requests==2.22.0
 rsa==4.0
 Rx==1.6.1
