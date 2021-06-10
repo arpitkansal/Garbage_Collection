@@ -13,7 +13,7 @@ Django==3.0.3
 djangorestframework==3.11.0
 dnspython==1.16.0
 email-validator==1.0.5
-fastapi==0.49.0
+fastapi==0.65.2
 fcm-django==0.3.4
 firebase==3.0.1
 firebase-admin==4.2.0
